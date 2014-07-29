@@ -8,7 +8,7 @@ var TRANSLATIONS = {
     "Yesterday": "Včera",
     "Week": "Týždeň",
     "Month": "Mesiac",
-    "Custom": "Ostatné",
+    "Custom": "Dátum",
     "Previous": "Späť",
     "Next": "Ďalší",
 
